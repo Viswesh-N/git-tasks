@@ -4,6 +4,7 @@ int main()
 {
     int a,b;
     cin>>a>>b;
+    cout<<"SUM IS:";
     cout<<a+b<<endl;
 
 }
