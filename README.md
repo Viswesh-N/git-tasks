@@ -25,7 +25,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Only one file should be there in the diff of your Pull Request.
 
 ### Entries
-
+HARSHIT [Harshit190103] (https://github.com/Harshit190103)
 
 ## Task 2
 
