@@ -26,10 +26,12 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 
 ### Entries 
+  - Aatir Zaki [azaki45](https://github.com/azaki45)
   - Allen Emmanuel Binny [allemmbinn](http://github.com/allemmbinn)
   - Alok Kumar Roy [AlokRoy-24](http://github.com/AlokRoy-24)
   - Apoorv Kumar [iamakthecoder](https://github.com/iamakthecoder)
   - Bratin Mondal [bratin03](http://github.com/bratin03)
+  - Garima Bansal [GarimaBansal72](https://github.com/GarimaBansal72)
   - Harsh Bongirwar [HarshBongirwar](https://github.com/HarshBongirwar)
   - Harshit Yadav [Harshit190103](https://github.com/Harshit190103)
   - Om Sadhwani [OmSadhwani](http://github.com/OmSadhwani)
