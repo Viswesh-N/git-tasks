@@ -32,6 +32,7 @@ Your entry should maintain alphabetic order and it should be in the format:
   - Apoorv Kumar [iamakthecoder](https://github.com/iamakthecoder)
   - Bratin Mondal [bratin03](http://github.com/bratin03)
   - Garima Bansal [GarimaBansal72](https://github.com/GarimaBansal72)
+  - Gayathri Anant [Gayathri2004Anant](https://github.com/Gayathri2004Anant)
   - Harsh Bongirwar [HarshBongirwar](https://github.com/HarshBongirwar)
   - Harshit Yadav [Harshit190103](https://github.com/Harshit190103)
   - Om Sadhwani [OmSadhwani](http://github.com/OmSadhwani)
