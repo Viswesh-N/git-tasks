@@ -5,10 +5,7 @@ using namespace std;
 
 int main()
 {
-    //int arr[3][3][3]={0};
-
-    //cout<<*arr<<endl;
-    
+    //type your code here
 
     return 0;
 }
